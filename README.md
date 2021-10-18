@@ -4,6 +4,8 @@ Usaremos el conjunto de datos recomendado en el postwork de la sesión 4, este c
 
 En este proyecto se pretende realizar predicciones del valor de pesos por dólar, con base en los datos con los que contamos. 
 
+Fuente de datos: https://data.nasdaq.com/data/BDM/SF60653-exchange-rate-pesos-per-us-dollar-used-to-settle-liabilities-denominated-in-foreign-currency-date-of-settlement-daily-11141991-05112021
+
 # Integrantes: 
 
 Rafael Sebastián Carrillo Rivera
