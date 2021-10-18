@@ -1,1 +1,1 @@
-# Proyecto_equipo10
+# Proyecto Equipo 10
