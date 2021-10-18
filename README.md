@@ -1,4 +1,6 @@
-# Proyecto Equipo 10
+# PROYECTO - Tipo de cambio de pesos por dólar estadounidense
+
+# Equipo 10
 
 Usaremos el conjunto de datos recomendado en el postwork de la sesión 4, este conjunto de datos contiene el tipo de cambio de pesos por dólar estadounidense (utilizado para liquidar pasivos denominados en moneda extranjera), contiene información diaria del 14 de noviembre de 1991 hasta el 11 de mayo de 2021. 
 
